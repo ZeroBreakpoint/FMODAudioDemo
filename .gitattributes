@@ -8,3 +8,4 @@ FMODAudioDemo/tools/* linguist-vendored
 FMODAudioDemo/bin/* linguist-vendored
 FMODAudioDemo/Project3D/* linguist-vendored
 FMODAudioDemo/temp/* linguist-vendored
+FMODAudioDemo/.vs/** linguist-vendored
