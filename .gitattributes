@@ -9,3 +9,5 @@ bin/** linguist-vendored
 Project3D/** linguist-vendored
 temp/** linguist-vendored
 .vs/** linguist-vendored
+
+*.html linguist-vendored
