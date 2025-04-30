@@ -1,4 +1,9 @@
 *.cpp linguist-language=C++
 *.h linguist-language=C++
 *.hpp linguist-language=C++
+
 dependencies/* linguist-vendored
+bootstrap/* linguist-vendored
+tools/* linguist-vendored
+bin/* linguist-vendored
+Project3D/* linguist-vendored
