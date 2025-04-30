@@ -2,8 +2,9 @@
 *.h linguist-language=C++
 *.hpp linguist-language=C++
 
-dependencies/* linguist-vendored
-bootstrap/* linguist-vendored
-tools/* linguist-vendored
-bin/* linguist-vendored
-Project3D/* linguist-vendored
+FMODAudioDemo/dependencies/* linguist-vendored
+FMODAudioDemo/bootstrap/* linguist-vendored
+FMODAudioDemo/tools/* linguist-vendored
+FMODAudioDemo/bin/* linguist-vendored
+FMODAudioDemo/Project3D/* linguist-vendored
+FMODAudioDemo/temp/* linguist-vendored
